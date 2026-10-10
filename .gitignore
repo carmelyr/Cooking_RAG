@@ -1,0 +1,36 @@
+# Python Bytecode & Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# Secrets & Configuration
+.env
+.env.*
+!.env.example
+
+# Large Media Files (e.g., demo video)
+*.mov
+*.mp4
+*.avi
+*.mkv
+
+# Local Databases & Raw Data
+database/
+project_data/
+*.db
+*.sqlite3
+
+# IDEs & OS System Files
+.DS_Store
+.idea/
+.vscode/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints

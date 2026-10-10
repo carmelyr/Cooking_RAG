@@ -48,9 +48,6 @@ python -m project.pipeline
 - Please use **light mode** for the interface
 - Video playback is only tested on Chrome; other browsers may have compatibility issues
 
-## RAG Workflow: 
-![RAG](project_data/RAG_workflow-1.jpg)
-
 ## Components: ##
 
 1. **UI layer** (found in `project/ui/`)

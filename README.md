@@ -29,6 +29,9 @@ python -m project.preprocessing.metadata_preprocessing
 ```bash
 python -m project.preprocessing.video_preprocessing
 ```
+## Demo
+
+![Cooking RAG Demo](demo.gif)
 
 ## How to start ##
 
